@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-url-shortener-front/static/css/main.bc288ed6.chunk.css",
+    "main.js": "/react-url-shortener-front/static/js/main.d4487870.chunk.js",
+    "main.js.map": "/react-url-shortener-front/static/js/main.d4487870.chunk.js.map",
+    "runtime-main.js": "/react-url-shortener-front/static/js/runtime-main.2832033d.js",
+    "runtime-main.js.map": "/react-url-shortener-front/static/js/runtime-main.2832033d.js.map",
+    "static/js/2.eba3bde6.chunk.js": "/react-url-shortener-front/static/js/2.eba3bde6.chunk.js",
+    "static/js/2.eba3bde6.chunk.js.map": "/react-url-shortener-front/static/js/2.eba3bde6.chunk.js.map",
+    "static/js/3.b76da78c.chunk.js": "/react-url-shortener-front/static/js/3.b76da78c.chunk.js",
+    "static/js/3.b76da78c.chunk.js.map": "/react-url-shortener-front/static/js/3.b76da78c.chunk.js.map",
+    "index.html": "/react-url-shortener-front/index.html",
+    "static/css/main.bc288ed6.chunk.css.map": "/react-url-shortener-front/static/css/main.bc288ed6.chunk.css.map",
+    "static/js/2.eba3bde6.chunk.js.LICENSE.txt": "/react-url-shortener-front/static/js/2.eba3bde6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-url-shortener-front/static/media/fuji.d35b84f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2832033d.js",
+    "static/js/2.eba3bde6.chunk.js",
+    "static/css/main.bc288ed6.chunk.css",
+    "static/js/main.d4487870.chunk.js"
+  ]
+}
