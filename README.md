@@ -20,8 +20,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Developing
 
 ### Technologies / Built With
-- 💣 React 17.0.2
-- 💅🏾 Styled Components 5.3.3
+- 💣  React 17.0.2
+- 💅🏾  Styled Components 5.3.3
 
 ### Dependencies / Prerequisites
 - validator 13.7.0
@@ -64,21 +64,19 @@ devDependencies
 
 [SemVer](https://semver.org/lang/es/) is used to version the project. 0.1.0 is the initial version.
 
-## Configuration
-
-Aquí debe escribir cuáles son todas las configuraciones que un usuario puede ingresar cuando usa el proyecto.
-
 ## Api Reference
 
-You can find the API reference in the [https://github.com/VeroMoreno/react-url-shortener-back](react-url-shortener-back) file.
-- [POST /](/) - Shorten a URL
-- [GET /:url](/:url) - Redirects to the original URL (Comodin endpoint)
+You can find the API reference in the <a target="_blank" href="https://github.com/VeroMoreno/react-url-shortener-back">react-url-shortener-back</a> repository.
+
+Endpoints:
+- POST / - Shorten a URL
+- GET /:url - Redirects to the original URL (Comodin endpoint)
 
 
-## Licensing
+### Licensing
 
 GNU GENERAL PUBLIC LICENSE
 
-# Now what?
+### Now what?
 
 This is a project to test some knowledge so it lacks certain verifications
