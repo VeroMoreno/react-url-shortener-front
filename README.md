@@ -17,6 +17,9 @@ npm start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Runs the app in the production mode.\
+Open [https://react-url-shortener-back.herokuapp.com](https://react-url-shortener-back.herokuapp.com) to view it in the browser.
+
 ## Developing
 
 ### Technologies / Built With
@@ -58,7 +61,7 @@ Package.json
 devDependencies
 - gh-pages (npm i -D gh-pages)
 
-"homepage":"https://veromoreno.github.io/url-shortener/",
+"homepage":"https://veromoreno.github.io/react-url-shortener-front/",
 
 ## Versioning
 

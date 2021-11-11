@@ -16,7 +16,7 @@ const Input = () => {
       alert('Please enter a valid url with http(s) protocol.');
     } else {
       const urlOriginal = event.target.elements.urlInput.value;
-      const response = await fetch(`http://localhost:3003`, {
+      const response = await fetch(`https://react-url-shortener-back.herokuapp.com/`, {
         method: 'POST',
         headers : {
           'Content-Type': 'application/json',
@@ -41,12 +41,12 @@ const Input = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href={`http://localhost:3003/${url}`}> {`http://localhost:3003/${url}`}
+            href={`https://react-url-shortener-back.herokuapp.com/${url}`}> {`4youTechie/${url}`}
           </a>
           <Button
             text={copied ? 'Copied!' : 'Copy'}
             onClick={() => {
-              navigator.clipboard.writeText(`http://localhost:3003/${url}`)
+              navigator.clipboard.writeText(`https://react-url-shortener-back.herokuapp.com/${url}`)
               .then(() => {
                 setCopied(true);
               })
